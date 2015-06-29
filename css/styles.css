@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700|Bitter:400,700);
+
+h1{
+  font-family: 'Bitter', serif;
+  text-align: center;
+}
+
+body{
+  background-image: url("../img/DeepInTheForest.jpg");
+  font-family: 'PT Sans', sans-serif;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
+  min-height: 100vh;
+  min-width: 100vh
+ ;
+  color: #455A64;
+}
+
+p{
+  font-size: 1.5em;
+  max-width: 26em;
+  line-height: 1.18;
+}
